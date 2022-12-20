@@ -6,4 +6,4 @@ This is an animation project. The heroes of this video are the teacher and assis
 
 This educational animation will be interesting for pupils and students studying in Ukraine.
 ## Pictures
-
+<IMG SRC=" " 
